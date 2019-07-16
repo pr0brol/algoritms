@@ -19,7 +19,6 @@ public class Main {
                     break;
                 }
                 N /= 2;
-                System.out.print(N + " ");
             }
         }
     }
